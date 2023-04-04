@@ -13,9 +13,9 @@
       "deploy": "firebase deploy --only functions:twilio-conector"
     },
     "dependencies": {
-      "firebase-admin": "^5.13.1",
-      "firebase-functions": "^2.0.2",
-      "dialogflow": "^0.6.0",
+      "firebase-admin": "5.13.1",
+      "firebase-functions": "2.0.2",
+      "dialogflow": "0.6.0",
       "twilio": "3.33.0"
     }
   }
